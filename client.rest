@@ -1,0 +1,2 @@
+### Tiedonhaku testi
+GET http://localhost/shoppinglist
